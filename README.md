@@ -1,7 +1,7 @@
 # 🌿 Global Skincare & Beauty E-Store — Power BI Analytics Dashboard
 
 > **Course Project | Big Data Technologies | University of Delaware — MS Data Science (Spring 2026)**
-> Built by **Bhargav Pathuri** | [LinkedIn](https://www.linkedin.com/in/bhargavpathuri-2486b61a7)
+> Built by **Bhargav Pathuri** | [LinkedIn](https://www.linkedin.com/in/bhargav-pathuri-2486b61a7)
 
 ---
 
