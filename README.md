@@ -36,7 +36,7 @@ The project was completed as the **final capstone** for the *Big Data Technologi
 | **Categories** | Body Care, Face Care, Hair Care, Make Up, Home & Accessories |
 | **Subcategories** | 17 (incl. Lipsticks, Foundations, Shampoos, Fragrances, etc.) |
 | **Customer Segments** | Consumer, Corporate, Self-Employed |
-| **Key Metrics** | Sales (~$6.5M), Profit (~$1.06M), Quantity, Discount |
+| **Key Metrics** | Sales, Profit, Quantity, Discount |
 
 ---
 
