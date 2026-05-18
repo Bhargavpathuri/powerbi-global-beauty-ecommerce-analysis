@@ -130,8 +130,9 @@ Previously worked as a **Data Analyst at Wipro** (2021–2024), building Power B
 
 Currently open to **Data Analyst, Business Intelligence, and Data Science** opportunities.
 
-📧 bhargavpathuri99@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/bhargavpathuri-2486b61a7)
+📧 bpathuri@udel.edu 
+📧 pathuribhargav99@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/bhargav-pathuri-2486b61a7)
 
 ---
 
